@@ -533,6 +533,9 @@ nav {
     border: none;
     outline: none;
 }
+.letter button:hover{
+    cursor: pointer;
+}
 
 .letter input {
     margin: 0px auto;
@@ -626,7 +629,7 @@ footer {
     height: 46.673px;
     margin-top: 110px;
     position: relative;
-    left: 840px;
+    left: 600px;
     top: 70px;
 
 }
@@ -661,7 +664,7 @@ footer {
     width: 175px;
     display: flex;
     margin: 0px auto;
-    margin-right: 950px;
+    /* margin-right: 950px; */
 }
 
 .all-links ul {
@@ -815,9 +818,6 @@ footer {
     .lists{
         display: none;
     }
-
-
-
 
 
 }
